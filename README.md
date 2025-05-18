@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI CRM Cleaner Project
 
 This project enhances CRM data accuracy using AI with a FastAPI backend and a React frontend.
@@ -47,6 +47,3 @@ Jane Smith,jane@example.com,,456 Oak Avenue
 - Missing value handling
 - Text normalization
 - Frontend table to view cleaned records
-=======
-# project-template
->>>>>>> 2bdef6f1a9ed0cbeb820fe12861212e74f97fa2b
